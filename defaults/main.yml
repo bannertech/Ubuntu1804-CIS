@@ -335,7 +335,7 @@ ubuntu1804cis_is_router: false
 ubuntu1804cis_ipv6_required: true
 
 # AIDE
-ubuntu1804cis_config_aide: true
+ubuntu1804cis_config_aide: false
 # AIDE cron settings
 ubuntu1804cis_aide_cron:
   cron_user: root
